@@ -1,5 +1,5 @@
-# bear_voila
+# mask detector
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/bear_voila/master?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohannesStutz/bear_voila/master?filepath=%2Fvoila%2Frender%2Fmask_detector.ipynb)
 
-Demo bear classifier with fastai and Voila
+Simple classifier - do you wear a mask? with fastai and Voila
